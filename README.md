@@ -52,7 +52,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 1. Clone this repository:
    ```bash
    git clone https://github.com/Pardhasai7/NBA-Analysis.git
-   cd clustering-analysis
+   cd NBA-Analysis
    ```
 2. Install required dependencies.
 3. Open the Jupyter notebooks and run them in order.
